@@ -1,2 +1,3 @@
 ###### Online Grocery Shopping System
+
 Growsariy Web Portal is a full-stack E-commerce application built with the MERN stack and Next.js, designed for seamless grocery ordering and delivery management. It features role-based authentication, product inventory control, cart and checkout workflows, real-time order tracking via WebSockets, and an admin analytics dashboard. The system follows a scalable, service-layer architecture with secure JWT-based access control and optimized MongoDB data modeling.
